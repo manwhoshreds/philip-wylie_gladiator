@@ -33,21 +33,21 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/42914</meta>
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/42914</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/42914</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description"></dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
-		]]></meta>
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42914</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gladiator</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-wylie_gladiator</meta>
 		<dc:creator id="author">Philip Wylie</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
+		<meta property="file-as" refines="#author">Wylie, Philip</meta>
 		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Philip_Wylie</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79145476</meta>
